@@ -1,4 +1,6 @@
 # Adambot
 Python kullanarak yaptığım Adambot projem.
 
-Başlama tarihi tahmini: 02/11/2022
+Tahmini başlama tarihi: 02/11/2022
+
+Tahmini bitiş tarihi: 20/11/2022
