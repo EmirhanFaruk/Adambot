@@ -1,3 +1,8 @@
+
+# Modification date: Sun Dec 11 17:39:58 2022
+
+# Production date: Wed Jan 17 22:46:05 2024
+
 from Hareketli_Obje import *
 from Patlama import *
 import pygame

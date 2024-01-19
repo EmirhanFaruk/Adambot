@@ -1,3 +1,8 @@
+
+# Modification date: Fri Dec 23 15:06:16 2022
+
+# Production date: Wed Jan 17 22:46:05 2024
+
 def herseyi_kaydir(adambot, monitor_buyuklugu, obje_listesi_listesi, hedef = "bruh"):
 	if hedef == "bruh":
 		hedef = (adambot.x, adambot.y)

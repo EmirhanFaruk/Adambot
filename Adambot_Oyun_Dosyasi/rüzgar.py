@@ -1,3 +1,8 @@
+
+# Modification date: Sat Dec 24 13:19:52 2022
+
+# Production date: Wed Jan 17 22:46:05 2024
+
 from random import randint
 
 def ruzgar(obje_listesi_listesi, ruzgar_hizi, sayacx, sayacy, hedef_ruzgar_hizi):

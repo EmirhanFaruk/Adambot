@@ -1,3 +1,8 @@
+
+# Modification date: Fri Dec 23 22:12:30 2022
+
+# Production date: Wed Jan 17 22:46:05 2024
+
 from Hareketli_Obje import *
 from mesafe import *
 import pygame

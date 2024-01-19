@@ -1,3 +1,8 @@
+
+# Modification date: Sat Dec 24 00:55:30 2022
+
+# Production date: Wed Jan 17 22:46:05 2024
+
 from Hareketli_Obje import *
 from Yazi import *
 from Patlama import *
